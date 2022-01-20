@@ -10,3 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)
 ```
 
+
+# scatterplot of starwars data 
+```{r}
+
+```
+
